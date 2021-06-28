@@ -15,6 +15,7 @@ zdd-const、seqbdd-constはSAPPOROBDDライブラリを用いてZDD、SeqBDDを�
 
 ## seqbdd-const
 各行に文字列が書かれたファイルを入力とし、それを表現するSeqBDDを構築します。
+こちらはヘッダファイル等に分割されていないので煩雑です（いずれ修正します）。
 
 ### seqbdd-const/naive
 素朴な手法による構築をします。
